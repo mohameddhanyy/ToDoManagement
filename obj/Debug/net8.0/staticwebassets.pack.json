@@ -1,0 +1,33 @@
+{
+  "Files": [
+    {
+      "Id": "F:\\C#-Essam\\TODO-Management\\TODO\\wwwroot\\app.js",
+      "PackagePath": "staticwebassets\\app.js"
+    },
+    {
+      "Id": "F:\\C#-Essam\\TODO-Management\\TODO\\wwwroot\\index.html",
+      "PackagePath": "staticwebassets\\index.html"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.TODO.Microsoft.AspNetCore.StaticWebAssetEndpoints.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssetEndpoints.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.TODO.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.build.TODO.props",
+      "PackagePath": "build\\TODO.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildMultiTargeting.TODO.props",
+      "PackagePath": "buildMultiTargeting\\TODO.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildTransitive.TODO.props",
+      "PackagePath": "buildTransitive\\TODO.props"
+    }
+  ],
+  "ElementsToRemove": []
+}

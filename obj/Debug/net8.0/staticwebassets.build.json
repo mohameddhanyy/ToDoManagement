@@ -1,0 +1,228 @@
+{
+  "Version": 1,
+  "Hash": "jdzNIHySVo85/2QgCE8dtiFcJ+bX/yuEhUZ36U67mZs=",
+  "Source": "TODO",
+  "BasePath": "_content/TODO",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [
+    {
+      "Name": "TODO\\wwwroot",
+      "Source": "TODO",
+      "ContentRoot": "F:\\C#-Essam\\TODO-Management\\TODO\\wwwroot\\",
+      "BasePath": "_content/TODO",
+      "Pattern": "**"
+    }
+  ],
+  "Assets": [
+    {
+      "Identity": "F:\\C#-Essam\\TODO-Management\\TODO\\wwwroot\\app.js",
+      "SourceId": "TODO",
+      "SourceType": "Discovered",
+      "ContentRoot": "F:\\C#-Essam\\TODO-Management\\TODO\\wwwroot\\",
+      "BasePath": "_content/TODO",
+      "RelativePath": "app#[.{fingerprint}]?.js",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "vb3ffbber9",
+      "Integrity": "ZZYTARFpajmkMad2ukPjB8qAA1e+AqtqKLYKwm/5TCM=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\app.js"
+    },
+    {
+      "Identity": "F:\\C#-Essam\\TODO-Management\\TODO\\wwwroot\\index.html",
+      "SourceId": "TODO",
+      "SourceType": "Discovered",
+      "ContentRoot": "F:\\C#-Essam\\TODO-Management\\TODO\\wwwroot\\",
+      "BasePath": "_content/TODO",
+      "RelativePath": "index#[.{fingerprint}]?.html",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "yle3vakeid",
+      "Integrity": "thNCezQUdLBU/SlyzKK1xxtuCtD1AoweKuVAQMqCoZ4=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\index.html"
+    }
+  ],
+  "Endpoints": [
+    {
+      "Route": "app.js",
+      "AssetFile": "F:\\C#-Essam\\TODO-Management\\TODO\\wwwroot\\app.js",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "3356"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/javascript"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"ZZYTARFpajmkMad2ukPjB8qAA1e+AqtqKLYKwm/5TCM=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sat, 10 May 2025 13:46:35 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-ZZYTARFpajmkMad2ukPjB8qAA1e+AqtqKLYKwm/5TCM="
+        }
+      ]
+    },
+    {
+      "Route": "app.vb3ffbber9.js",
+      "AssetFile": "F:\\C#-Essam\\TODO-Management\\TODO\\wwwroot\\app.js",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "3356"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/javascript"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"ZZYTARFpajmkMad2ukPjB8qAA1e+AqtqKLYKwm/5TCM=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sat, 10 May 2025 13:46:35 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "vb3ffbber9"
+        },
+        {
+          "Name": "label",
+          "Value": "app.js"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-ZZYTARFpajmkMad2ukPjB8qAA1e+AqtqKLYKwm/5TCM="
+        }
+      ]
+    },
+    {
+      "Route": "index.html",
+      "AssetFile": "F:\\C#-Essam\\TODO-Management\\TODO\\wwwroot\\index.html",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "2314"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/html"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"thNCezQUdLBU/SlyzKK1xxtuCtD1AoweKuVAQMqCoZ4=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sat, 10 May 2025 13:46:37 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-thNCezQUdLBU/SlyzKK1xxtuCtD1AoweKuVAQMqCoZ4="
+        }
+      ]
+    },
+    {
+      "Route": "index.yle3vakeid.html",
+      "AssetFile": "F:\\C#-Essam\\TODO-Management\\TODO\\wwwroot\\index.html",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "2314"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/html"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"thNCezQUdLBU/SlyzKK1xxtuCtD1AoweKuVAQMqCoZ4=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sat, 10 May 2025 13:46:37 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "yle3vakeid"
+        },
+        {
+          "Name": "label",
+          "Value": "index.html"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-thNCezQUdLBU/SlyzKK1xxtuCtD1AoweKuVAQMqCoZ4="
+        }
+      ]
+    }
+  ]
+}
